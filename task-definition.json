@@ -1,5 +1,6 @@
 {
     "family": "macosshell", 
+   "executionRoleArn": "arn:aws:iam::667536755532:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc", 
     "containerDefinitions": [
         {
